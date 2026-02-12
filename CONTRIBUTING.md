@@ -2,6 +2,8 @@
 
 Prometheus uses GitHub to manage reviews of pull requests.
 
+* **New to Prometheus?** Check out our [Newcomers Guide](docs/NEWCOMERS_GUIDE.md) for a comprehensive introduction to the codebase!
+
 * If you are a new contributor see: [Steps to Contribute](#steps-to-contribute)
 
 * If you have a trivial fix or improvement, go ahead and create a pull request,
