@@ -4,6 +4,8 @@ Prometheus uses GitHub to manage reviews of pull requests.
 
 * If you are a new contributor see: [Steps to Contribute](#steps-to-contribute)
 
+* **Looking for beginner-friendly issues?** Check out our [Good First Issues Guide](GOOD_FIRST_ISSUES.md) for detailed guidance on making your first contribution.
+
 * If you have a trivial fix or improvement, go ahead and create a pull request,
   addressing (with `@...`) a suitable maintainer of this repository (see
   [MAINTAINERS.md](MAINTAINERS.md)) in the description of the pull request.
