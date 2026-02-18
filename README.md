@@ -219,7 +219,10 @@ For more information on building, running, and developing on the React-based UI,
 
 ## Contributing
 
-Refer to [CONTRIBUTING.md](https://github.com/prometheus/prometheus/blob/main/CONTRIBUTING.md)
+We welcome contributions! 
+
+* **New to Prometheus?** Check out our [Good First Issues Guide](GOOD_FIRST_ISSUES.md) to find beginner-friendly contribution opportunities.
+* For detailed contribution guidelines, refer to [CONTRIBUTING.md](https://github.com/prometheus/prometheus/blob/main/CONTRIBUTING.md)
 
 ## License
 
