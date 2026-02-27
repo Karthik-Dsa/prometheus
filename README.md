@@ -221,6 +221,8 @@ For more information on building, running, and developing on the React-based UI,
 
 Refer to [CONTRIBUTING.md](https://github.com/prometheus/prometheus/blob/main/CONTRIBUTING.md)
 
+**New to Prometheus?** Check out our [Newcomers Guide](docs/NEWCOMERS_GUIDE.md) for a comprehensive introduction to the codebase, build instructions, and tips for making your first contribution!
+
 ## License
 
 Apache License 2.0, see [LICENSE](https://github.com/prometheus/prometheus/blob/main/LICENSE).
